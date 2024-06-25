@@ -1,4 +1,4 @@
-#Proyecto: 
+# Proyecto: 
   Ejercicio de inter-operabilidad entre dos sistemas de registros médicos electrónicos en territorio peruano.
 ## Actores participantes:
   * **DIRESA Cajamarca:** Gobierno regional descentralizado con activo digital de tipo SAAS denominado ==oneVisionCax==, para los fines operativos SIHCE Cajamarca (Pendiente certificación por central MINSA).
