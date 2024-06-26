@@ -6,7 +6,7 @@ Ejercicio de inter-operabilidad entre dos sistemas de registros médicos electr�
 * **zlTech:** Entidad cooperante autónoma de origen estadounidense, desarrolladora de software, con activo digital de tipo SAAS denominado **QHALI** e indexado en hl7 internacional apartado Perú.
 * **DIPOS:** Dirección Ejecutiva de Intercambio Prestacional, Organización y Servicios de la Dirección General de Aseguramiento e Intercambio Prestacional del Ministerio de Salud Peruano (**DGAIN**), en base a sus competencias, lidera la implementación de las Redes Integradas de Salud a nivel nacional.
 
-## Abstracto:
+## Abstract:
 - En el marco de la implementación de Redes Integradas de Salud (RIS) en Perú, y en relación a las actividades para la operación de los registros médicos electrónicos, la DIPOS/DGAIN brinda asistencias técnicas a los Gobiernos Regionales que busquen el éxito de sus hitos, ya que estos impactan de manera transversal la gestión de la información en salud dentro del territorio de las RIS.
 - DIRESA Cajamarca viene desplegando activos de software administrativos y en salud dentro de su jurisdicción, creaciones desarrolladas in-House y a través de integraciones continuas a lo largo de los últimos 5 años.
 - zlTech viene desplegando Qhali, un activo digital que funge como interfaz para modelos de AI. Abordando las brechas en la oportunidad de atención (oferta-demanda en salud), generándose así un nuevo canal seguro para los ciudadanos que buscan orientación de manera rápida y efectiva.
