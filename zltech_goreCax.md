@@ -26,4 +26,15 @@ Ejercicio de inter-operabilidad entre dos sistemas de registros médicos electr�
 * Dicha actividad piloto no involucra gastos ni inversiones por parte de las direcciones del MINSA ni de los organos del Gobierno Regional. Sus activos se enmarcan en el recurso humano que atiende el proyecto.
 * zlTech como entidad cooperante realiza las inversiones necesarias para la implementación del piloto, toda vez que forma parte de sus actividades de difusión corporativa en territorio Peruano y como acercamiento de estas nuevas tecnologías.
 
-**update:** 2024-06-26 Tuesday
+## Medios de comunicación para la coordinación de los equipos:
+
+El consultor de MINSA DGAIN selecciona los servicios freemium de Discord y Github como medios de coordinación de los equipos de desarrollo. Esto debido a que funge como mediador de la actividad y con la intención de equilibrar y mantener las actividades abiertas y transparentes.
+
+Esto conlleva la lógica que ninguno de los equipos debería registrar información sensible de sus entidades, a no ser que se traten de bloques específicos que se requieran articular como branchs independientes (Raw, no ingresando ninguna SSH).
+
+Las asistencias/ orientaciones técnicas, se priorizará sean realizadas vía teleconferencia y/o de manera presenciales en los casos que sean necesarios.
+
+**Discord**: Repositorio abierto de mensajería instantánea con historial de canales y threads entre equipos.
+**Github**: Repositorio de datos para visualización de registros y segmentos de código; así como vinculación de incidencias en estructuras de un proyecto en seguimiento.
+
+**update:** 2024-06-27 Tuesday
